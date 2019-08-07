@@ -6,3 +6,7 @@ The data was drawn from Yahoo! Finance historical data for the Amazon stock. The
 Though not included, I also utilized SAS to study the performance of an ARIMA model on the data.
 
 Disclaimer: This project was not conducted for the sake of actually forecasting stock prices on the basis of closing price alone. This would be essentially impossible to profit on solely through daily results. The idea of this project was to successfully develop a model for time-series data using RNN's built in Keras.
+
+Project Progress: Complete
+
+Data Source: https://finance.yahoo.com/quote/AMZN/history?p=AMZN
